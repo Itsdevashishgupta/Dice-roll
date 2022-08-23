@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dice</string>
+    <string name="produce_random">Button</string>
+</resources>
